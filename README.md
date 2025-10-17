@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 I'm a high school developer from Korea 🇰🇷  
-Currently in **grade 1**, studying **C#, C++, and Java** in school.  
+Currently in **grade 1**, studying **C#, C++, Java, JavaScript, HTML and CSS** in school.  
 My main language is **C#**, and I’m working as the **Boss AI Developer**  
 in a large-scale (20-member) game development project.
 
